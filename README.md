@@ -19,10 +19,9 @@
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 
-**Frontend & Infra**
+**Infra**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/IIS-0078D7?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
