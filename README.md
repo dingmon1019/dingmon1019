@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hwang Junsu (황준수)
+# Hwang Junsoo (황준수)
 ### Backend Engineer -> XAI / Agent Explainability Researcher-in-Progress
 
 **Turning practical AI engineering experience into testable research questions.**
 
 I am not presenting myself as a finished researcher. I am using backend engineering experience to shape small, testable research questions around XAI, human-verifiable AI outputs, Text-to-SQL evaluation, uncertainty, and agent explainability.
 
-[Research Direction](./research-direction.md) · [Notion Portfolio](https://www.notion.so/8ae20828d4ce44a695d2c7949b4989b8) · [Email](mailto:jsjsjsjsjs1019@naver.com)
+[Research Direction](./research-direction.md) · [Public Portfolio](https://dingmon1019.github.io/) · [Notion Portfolio](https://www.notion.so/8ae20828d4ce44a695d2c7949b4989b8) · [Email](mailto:jsjsjsjsjs1019@naver.com)
+
+<a href="https://dingmon1019.github.io/">
+  <img src="./assets/portfolio-qr.png" alt="QR code for Hwang Junsoo public portfolio" width="150" />
+</a>
 
 </div>
 
@@ -94,5 +98,5 @@ More context is tracked in [research-direction.md](./research-direction.md).
 ## Connect
 
 - **Email**: [jsjsjsjsjs1019@naver.com](mailto:jsjsjsjsjs1019@naver.com)
-- **Portfolio**: [Notion Portfolio](https://www.notion.so/8ae20828d4ce44a695d2c7949b4989b8)
+- **Portfolio**: [Public Portfolio](https://dingmon1019.github.io/) · [Notion Portfolio](https://www.notion.so/8ae20828d4ce44a695d2c7949b4989b8)
 - **GitHub**: [github.com/dingmon1019](https://github.com/dingmon1019)
